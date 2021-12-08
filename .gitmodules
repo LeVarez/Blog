@@ -1,0 +1,4 @@
+[submodule "LeVarezBlog/public"]
+	path = LeVarezBlog/public
+	url = https://github.com/LeVarez/LeVarez.github.io.git
+	branch = main
