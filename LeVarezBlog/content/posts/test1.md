@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2020-10-08T12:37:40+01:00
+date = 2021-12-08T12:37:40+01:00
 title = "Prototype Pollution"
 description = ""
 slug = ""
