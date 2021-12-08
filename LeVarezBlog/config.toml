@@ -1,0 +1,5 @@
+baseURL = 'https://LeVarez.github.io/'
+languageCode = 'en-us'
+title = 'LeVarez Blog'
+
+theme="hugo-coder"
