@@ -4,6 +4,7 @@ title = 'LeVarez'
 
 theme="hugo-coder"
 enableEmoji = true
+DefaultContentLanguage = 'es'
 
 [params]
 author = "LeVarez"
