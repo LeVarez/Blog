@@ -305,13 +305,6 @@ template {
 [hidden] {
   display: none; }
 
-img[src$='#center'] {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: solid 1px;
-  border-radius: 10px; }
-
 /*!
 Fork Awesome 1.2.0
 License - https://forkaweso.me/Fork-Awesome/license
